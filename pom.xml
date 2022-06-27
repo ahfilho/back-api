@@ -11,10 +11,10 @@
 		
 	</parent>
 	<groupId>com.ws</groupId>
-	<artifactId>backend_site</artifactId>
+	<artifactId>backend_api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backend_site</name>
-	<description>backend_site</description>
+	<name>backend_api</name>
+	<description>backend_api</description>
 	<properties>
 	
 		<java.version>11</java.version>
