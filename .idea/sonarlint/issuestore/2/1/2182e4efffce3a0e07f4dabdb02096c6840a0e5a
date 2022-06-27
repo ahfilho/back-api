@@ -1,0 +1,21 @@
+
+`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(øÉ±Êşÿÿÿÿ
+`	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(ë”é´ùÿÿÿÿ
+`	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(àì‰¹úÿÿÿÿ
+§
+java:S4449€"Annotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(î¼Â÷
+¦
+java:S4449,"Annotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(äİù»
+œ
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«¥Àõşÿÿÿÿ
+—
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢±çÇ
+V	java:S125<"<This block of commented-out lines of code should be removed.(€ğ¸Ïşÿÿÿÿ
+O
+java:S1854r"9Remove this useless assignment to local variable "teste".(×Ï×ó
+@
+java:S1481r"*Remove this unused "teste" local variable.(×Ï×ó
+M	java:S106s"9Replace this use of System.out or System.err by a logger.(³Ìït
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(ãêÕ„ûÿÿÿÿ
+N
+java:S1172|"3Remove this unused method parameter "produtoModel".(íúƒÇÿÿÿÿÿ
